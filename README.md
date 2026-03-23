@@ -1,4 +1,5 @@
-# Support Vector Machine (SVM) — Complete Study Repository
+# Support Vector Machine (SVM) 
+Complete Study Repository
 
 A comprehensive collection of Jupyter notebooks covering SVM fundamentals, kernel methods, and Support Vector Regression (SVR) with hyperparameter tuning.
 
@@ -51,11 +52,11 @@ Introduces SVM for binary classification using synthetic data and explores all f
 Provides a geometric/intuitive understanding of how SVM kernels transform non-linearly separable data into linearly separable feature spaces.
 
 <p align="center">
-  <img src="images/part1.png" height="220" width="260" style="object-fit:cover;"/>
+  <img src="images/part1.png" height="160" width="210" style="object-fit:cover;"/>
   &nbsp;&nbsp;➡️&nbsp;&nbsp;
-  <img src="images/part2.gif" height="220" width="260" style="object-fit:cover;"/>
+  <img src="images/part2.gif" height="160" width="210" style="object-fit:cover;"/>
   &nbsp;&nbsp;➡️&nbsp;&nbsp;
-  <img src="images/part3.gif" height="220" width="260" style="object-fit:cover;"/>
+  <img src="images/part3.gif" height="160" width="210" style="object-fit:cover;"/>
 </p>
 <p align="center">
   <sub>2D concentric circles &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Polynomial feature mapping (3D) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linearly separable in higher dimension</sub>
